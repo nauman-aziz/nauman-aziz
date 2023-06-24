@@ -127,9 +127,9 @@
     <th>Languages</th>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadfareed&theme=gruvbox"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nauman-aziz&theme=gruvbox"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=nauman-aziz&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nauman-aziz&theme=gruvbox"/></td>
   </tr>
 </table>
 	
@@ -144,7 +144,7 @@
 | [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat) |
 | [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github) | ![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/transcript_summary?color=blue&logo=github&style=flat) |
 
-[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
+[![@nauman's Holopin board](https://www.holopin.io/personalsticker/clj9wxcqe252580fl5ys383zl5)](https://holopin.io/@naumanaziz)
 
 
 ## ⚡️Github Contributions
