@@ -144,7 +144,7 @@
 | [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat) |
 | [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github) | ![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/transcript_summary?color=blue&logo=github&style=flat) |
 
-[![@nauman's Holopin board](https://www.holopin.io/personalsticker/clj9wxcqe252580fl5ys383zl5)](https://holopin.io/@naumanaziz)
+[![@nauman's Holopin board](https://www.holopin.io/@naumanaziz#badges)](https://holopin.io/@naumanaziz)
 
 
 ## ⚡️Github Contributions
