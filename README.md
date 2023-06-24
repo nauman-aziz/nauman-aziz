@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1 style="color: #F7CC18FF;">Hi there, I'm Nauman Aziz👋<a href="#"></a></h1>
+    <h1 style="color: #F7CC18FF;">Hi, this is Nauman Aziz👋<a href="#"></a></h1>
   </div>
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -8,19 +8,19 @@
     </a>
   </p>
 
-  <h2>My Python Development Course</h2>
+  <h2>My React Development Course</h2>
   <ul>
     <li><a href="https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ">Youtube channel for Tips</a></li>
   </ul>
 
-  <h3>I'm a Python Developer, Teacher and Researcher!</h3>
+  <h3>I'm a React Developer, Teacher, and Researcher!</h3>
   <ul>
-    <li>🔭 I’m currently working as a Backend Engineer.</li>
-    <li>🌱 I’m currently expanding my knowledge in MERN Stack.</li>
-    <li>👯 I’m looking to collaborate with other content creators and developers.</li>
-    <li>📢 Love to teach and inspire students. Taught over more than 1000+ students.</li>
-    <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
-    <li>💎 If you are a Tech boy/girl let's get connected</li>
+	<li>🔭 Currently, my role entails working as a Frontend Engineer.</li>
+	<li>🌱 I am presently expanding my knowledge base in the MERN Stack.</li>
+	<li>👯 I am enthusiastic about collaborating with fellow content creators and developers.</li>
+	<li>📢 I am passionate about teaching and inspiring students, having imparted knowledge to over 1000+ individuals.</li>
+	<li>🥅 My goals for 2023-24 revolve around contributing more to Open Source projects and executing my innovative ideas.</li>
+	<li>💎 If you are involved in the tech industry, let's connect and build valuable connections.</li>
   </ul>
 	
 <div width="100%"> <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=saadfareed&badges=3&show-avatar=true&show-header=true&badge-min-width=150&branding=false&style=--badge-technology-font-weight:500;--badge-rank-font-weight:normal;--badge-rank-font-size:16px;--badge-bg-color:%23000;--header-bg-color:%23000;--badge-text-color:%23fff;--badge-margin:5px;"> </div>
