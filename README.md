@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1 style="color: #F7CC18FF;">Hi there, I'm Saad Fareed👋<a href="#"></a></h1>
+    <h1 style="color: #F7CC18FF;">Hi there, I'm Nauman Aziz👋<a href="#"></a></h1>
   </div>
   <p align="center">
     <a href="https://git.io/typing-svg">
