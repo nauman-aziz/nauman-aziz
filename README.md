@@ -117,7 +117,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-nauman-aziz-57b6801ab/"><img src="https://img.shields.io/badge/-Nauman%20Aziz-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:m.nauman.aziz.1122@gmail.com"><img src="https://img.shields.io/badge/-m.nauman.aziz.1122@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/numan_aziz/"><img src="https://img.shields.io/badge/-@Nauman-aziz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/numan_aziz/"><img src="https://img.shields.io/badge/-@NaumanAziz-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <table>
