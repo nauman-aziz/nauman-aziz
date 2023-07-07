@@ -160,4 +160,3 @@
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
 </p>
 		
-![](https://hit.yhype.me/github/profile?user_id=50300882)
