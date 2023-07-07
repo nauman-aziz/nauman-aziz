@@ -23,7 +23,7 @@
 	<li>💎 If you are involved in the tech industry, let's connect and build valuable connections.</li>
   </ul>
 	
-<div width="100%"> <img src="https://i.postimg.cc/3r1t32cb/Muhmmad-Nauman-Aziz.png?widget=summary&username=saadfareed&badges=3&show-avatar=true&show-header=true&badge-min-width=150&branding=false&style=--badge-technology-font-weight:500;--badge-rank-font-weight:normal;--badge-rank-font-size:16px;--badge-bg-color:%23000;--header-bg-color:%23000;--badge-text-color:%23fff;--badge-margin:5px;"> </div>
+<div width="100%"> <img src="https://i.postimg.cc/3r1t32cb/Muhmmad-Nauman-Aziz.png?widget=summary&username=saadfareed&badges=3&show-avatar=true&show-header=true&badge-min-width=1500&branding=false&style=--badge-technology-font-weight:500;--badge-rank-font-weight:normal;--badge-rank-font-size:16px;--badge-bg-color:%23000;--header-bg-color:%23000;--badge-text-color:%23fff;--badge-margin:5px;"> </div>
 	
 <h2>Tech Stack</h2>
 
