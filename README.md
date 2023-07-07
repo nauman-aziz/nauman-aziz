@@ -8,10 +8,6 @@
     </a>
   </p>
 
-  <h2>My React Development Course</h2>
-  <ul>
-    <li><a href="https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ">Youtube channel for Tips</a></li>
-  </ul>
 
   <h3>I'm a React Developer, Teacher, and Researcher!</h3>
   <ul>
